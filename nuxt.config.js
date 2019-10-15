@@ -8,7 +8,6 @@ let apiServer = process.env.API_SERVER;
 
 const metaJson = require("./meta.json");
 
-const materialJson = require("../../material.json");
 
 const outputDir = `dist${metaJson.hash}`;
 const ossPath = `http://serverless-platform.deepexi.top/materials/${materialJson.materialId}/${outputDir}`;
