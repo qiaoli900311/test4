@@ -7,8 +7,8 @@ let mockServer = "http://yapi.deepexi.io:5002/mock/898"; // 不能以斜杠结�
 let apiServer = process.env.API_SERVER;
 
 
-const outputDir = `dist${metaJson.hash}`;
-const ossPath = `http://serverless-platform.deepexi.top/materials/${materialJson.materialId}/${outputDir}`;
+const outputDir = `dist`;
+
 const publicPath = `http://serverless-platform.deepexi.top/applications/agdQe1rGbjd3deIzHRdktYC8oeWRm51N`
 const config = {
   aliIconFont: "",
