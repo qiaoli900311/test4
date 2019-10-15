@@ -1,0 +1,16 @@
+{
+    "name": "user-login",
+    "version": "1.0.0",
+    "title": "用户登录",
+    "description": "用户登录",
+    "type": "page",
+    "platform": [
+        "PC"
+    ],
+    "homePage": "/materials/24/dist0aed4fd3fa3e8698f8df554d212307bf/index.html",
+    "category": "图表",
+    "screenshot": "/screenshots/24/0aed4fd3fa3e8698f8df554d212307bf/1567587136393.png",
+    "path": "pages/UserLogin",
+    "origin": "http://gitlab.deepexi.top/deepexi/deepexi-serverless/serverless-material.git",
+    "hash": "0aed4fd3fa3e8698f8df554d212307bf"
+}

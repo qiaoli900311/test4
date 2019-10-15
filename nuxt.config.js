@@ -12,7 +12,7 @@ const materialJson = require("../../material.json");
 
 const outputDir = `dist${metaJson.hash}`;
 const ossPath = `http://serverless-platform.deepexi.top/materials/${materialJson.materialId}/${outputDir}`;
-const publicPath = process.env.NODE_ENV === "production" ? ossPath : "";
+const publicPath = `http://serverless-platform.deepexi.top/applications/agdQe1rGbjd3deIzHRdktYC8oeWRm51N`
 const config = {
   aliIconFont: "",
   env: {
