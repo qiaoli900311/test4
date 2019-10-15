@@ -1,0 +1,18 @@
+{
+    "name": "qltest",
+    "description": "qltestmiaoshu",
+    "dependencies": {},
+    "alias": {},
+    "appKey": "agdQe1rGbjd3deIzHRdktYC8oeWRm51N",
+    "appSecret": "n6reOseqJNobVfJ7DxMc51zwLKvmF05E",
+    "framework": "vue",
+    "git": {
+        "url": "https://github.com/qiaoli900311/test4.git",
+        "isPrivate": 1,
+        "username": "qiaoli900311",
+        "password": "48111400qiaoli"
+    },
+    "id": 189,
+    "platform": "pc",
+    "projectId": 73
+}
