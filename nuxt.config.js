@@ -6,8 +6,6 @@ let mockServer = "http://yapi.deepexi.io:5002/mock/898"; // 不能以斜杠结�
 
 let apiServer = process.env.API_SERVER;
 
-const metaJson = require("./meta.json");
-
 
 const outputDir = `dist${metaJson.hash}`;
 const ossPath = `http://serverless-platform.deepexi.top/materials/${materialJson.materialId}/${outputDir}`;
